@@ -1,5 +1,5 @@
 { "group": "grizli",
-  "main": "http://cosmos.phy.tufts.edu/~daniellangevagle/GRIZLIweb/",
+  "main": "http://cosmos.phy.tufts.edu/~daniellangevagle/GRIZLI-Explorer/",
   "table": {
     "catName": ["ra", "dec", "t_g102", "t_g141", "mag_auto", "z_map", "chinu", "bic_diff", "zwidth1", "a_image", "b_image", "sn_siii", "sn_ha", "sn_oiii", "sn_hb", "sn_oii"],
     "defaultName": ["ra", "dec", "t_g102", "t_g141", "mag_auto", "z_map", "chinu", "bic_diff", "zwidth1", "a_image", "b_image", "sn_siii", "sn_ha", "sn_oiii", "sn_hb", "sn_oii"],
